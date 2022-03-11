@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "animal-crossing-vscode-icon-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<h1 align="center">
+  <br>
+  <img src="./img/Animal_Crossing_Leaf.png" width="100" align="center">
+  <br><br>
+  Animal Crossing File Icon Theme
+  <br><br>
+</h1>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+An Animal Crossing: New Leaf themed file icon pack for VSCode!
+Currently supporting common web development file types.

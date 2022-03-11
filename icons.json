@@ -1,0 +1,75 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "icons/furniture.png"
+    },
+    "_css": {
+      "iconPath": "icons/wand.png"
+    },
+    "_html": {
+      "iconPath": "icons/fossil.png"
+    },
+    "_javascript": {
+      "iconPath": "icons/star fragment.png"
+    },
+    "_json": {
+      "iconPath": "icons/lost item journal.png"
+    },
+    "_text": {
+      "iconPath": "icons/lost item book.png"
+    },
+    "_image": {
+      "iconPath": "icons/diy recipe.png"
+    },
+    "_log": {
+      "iconPath": "icons/wood.png"
+    },
+    "_git": {
+      "iconPath": "icons/construction helmet.png"
+    },
+    "_gitignore": {
+      "iconPath": "icons/oldtire.png"
+    },
+    "_java": {
+      "iconPath": "icons/coffee.png"
+    },
+    "_perl": {
+      "iconPath": "icons/pearl.png"
+    },
+    "_lock": {
+      "iconPath": "icons/red present.png"
+    }
+  },
+  "file": "_file",
+  "fileExtensions": {
+    "java": "_java",
+    "js": "_javascript",
+    "md": "_text",
+    "txt": "_text",
+    "git": "_git",
+    "pl": "_perl",
+    "jpeg": "_image",
+    "jpg": "_image",
+    "gif": "_image",
+    "png": "_image",
+    "bmp": "_image",
+    "ico": "_image",
+    "svg": "_image",
+    "pdf": "_image"
+  },
+  "fileNames": {
+    ".gitignore": "_gitignore",
+    ".gitattributes": "_git",
+    "changelog": "_log",
+    "changelog.md": "_log",
+    "changelog.json": "_log",
+    "package-lock.json": "_lock"
+  },
+  "languageIds": {
+    "javascript": "_js",
+    "css": "_css",
+    "html": "_html",
+    "json": "_json",
+    "git": "_git"
+  }
+}

@@ -1,21 +1,21 @@
 {
-    "name": "animal-crossing-vscode-icon-theme",
-    "displayName": "Animal Crossing VSCode Icon Theme",
-    "description": "An Animal Crossing: New Leaf themed icon pack for VSCode!",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.65.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Animal Crossing Icon Theme",
-                "uiTheme": "vs",
-                "path": "./themes/Animal Crossing Icon Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "animal-crossing-vscode-icon-theme",
+  "displayName": "Animal Crossing VSCode Icon Theme",
+  "description": "An Animal Crossing: New Leaf themed icon pack for VSCode!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "animal-crossing-file-icon-theme",
+        "label": "Animal Crossing File Icon Theme",
+        "path": "icons.json"
+      }
+    ]
+  }
 }

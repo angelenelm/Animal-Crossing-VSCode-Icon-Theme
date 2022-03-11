@@ -2,7 +2,7 @@
   "name": "animal-crossing-vscode-icon-theme",
   "displayName": "Animal Crossing VSCode Icon Theme",
   "description": "An Animal Crossing: New Horizons themed icon pack for VSCode!",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.65.0"
   },
@@ -11,12 +11,11 @@
     "name": "Angelene Manalo"
   },
   "icon": "icons/furniture.png",
-
   "categories": [
     "Themes"
   ],
   "keywords": [
-		"icons",
+    "icons",
     "theme",
     "icon",
     "cute",
@@ -24,8 +23,7 @@
     "animal",
     "crossing"
   ],
-	"license": "MIT",
-
+  "license": "MIT",
   "contributes": {
     "iconThemes": [
       {
@@ -36,7 +34,7 @@
     ]
   },
   "repository": {
-		"type": "git",
-		"url": "https://github.com/angelenelm/Animal-Crossing-VSCode-Icon-Theme.git"
-	}
+    "type": "git",
+    "url": "https://github.com/angelenelm/Animal-Crossing-VSCode-Icon-Theme.git"
+  }
 }

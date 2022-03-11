@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="img/animal_crossing_leaf.png">
+  <img width="100" src="img/Animal_Crossing_Leaf.png">
 </p>
 
 <center>

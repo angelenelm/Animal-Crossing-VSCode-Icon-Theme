@@ -9,6 +9,8 @@
 An Animal Crossing: New Horizons themed file icon pack for VSCode! Currently supporting common web development file types. Other file types are a work in progress.
 
 <p align="center">
+  Get it <a href="https://marketplace.visualstudio.com/items?itemName=angelenelm.animal-crossing-vscode-icon-theme">here</a>!
+  
   <img src="img/screenshot.png">
 </p>
 

@@ -2,7 +2,7 @@
   "name": "animal-crossing-vscode-icon-theme",
   "displayName": "Animal Crossing VSCode Icon Theme",
   "description": "An Animal Crossing: New Horizons themed icon pack for VSCode!",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.65.0"
   },

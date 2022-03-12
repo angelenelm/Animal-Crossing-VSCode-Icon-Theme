@@ -10,7 +10,7 @@
       "iconPath": "icons/fossil.png"
     },
     "_javascript": {
-      "iconPath": "icons/star fragment.png"
+      "iconPath": "icons/star fragment large.png"
     },
     "_json": {
       "iconPath": "icons/lost item journal.png"
@@ -27,7 +27,7 @@
     "_git": {
       "iconPath": "icons/construction helmet.png"
     },
-    "_gitignore": {
+    "_ignore": {
       "iconPath": "icons/oldtire.png"
     },
     "_java": {
@@ -58,7 +58,8 @@
     "pdf": "_image"
   },
   "fileNames": {
-    ".gitignore": "_gitignore",
+    ".vscodeignore": "_ignore",
+    ".gitignore": "_ignore",
     ".gitattributes": "_git",
     "changelog": "_log",
     "changelog.md": "_log",

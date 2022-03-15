@@ -3,6 +3,9 @@
     "_file": {
       "iconPath": "icons/furniture.png"
     },
+    "_folder": {
+      "iconPath": "icons/message bottle.png"
+    },
     "_css": {
       "iconPath": "icons/wand.png"
     },
@@ -41,6 +44,7 @@
     }
   },
   "file": "_file",
+  "folder": "_folder",
   "fileExtensions": {
     "java": "_java",
     "js": "_javascript",

@@ -41,6 +41,9 @@
     },
     "_lock": {
       "iconPath": "icons/red present.png"
+    },
+    "_env": {
+      "iconPath": "icons/lily of the valley.png"
     }
   },
   "file": "_file",
@@ -59,7 +62,8 @@
     "bmp": "_image",
     "ico": "_image",
     "svg": "_image",
-    "pdf": "_image"
+    "pdf": "_image",
+    "env": "_env"
   },
   "fileNames": {
     ".vscodeignore": "_ignore",

@@ -27,6 +27,7 @@ An Animal Crossing: New Horizons themed file icon pack for VSCode! Currently sup
 | <img src="icons/star fragment large.png" width="25"> | `js`      |
 | <img src="icons/lost item journal.png" width="25">   | `json`    |
 | <img src="icons/lost item book.png" width="25">      | `md, txt` |
+| <img src="icons/ribbon eel.png" width="25">          | `py`     |
 | <img src="icons/diy recipe.png" width="25">          | `images`  |
 | <img src="icons/wood.png" width="25">                | `logs`    |
 | <img src="icons/construction helmet.png" width="25"> | `git`     |

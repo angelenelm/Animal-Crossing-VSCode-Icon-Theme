@@ -44,6 +44,9 @@
     },
     "_env": {
       "iconPath": "icons/lily of the valley.png"
+    },
+    "_py": {
+      "iconPath": "icons/ribbon eel.png"
     }
   },
   "file": "_file",
@@ -63,7 +66,8 @@
     "ico": "_image",
     "svg": "_image",
     "pdf": "_image",
-    "env": "_env"
+    "env": "_env",
+    "py": "_py"
   },
   "fileNames": {
     ".vscodeignore": "_ignore",

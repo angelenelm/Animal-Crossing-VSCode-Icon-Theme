@@ -1,3 +1,7 @@
 node_modules
 *.vsix
 .DS_Store
+.vscode
+.gitignore
+.gitattributes
+.vscodeignore

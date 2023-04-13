@@ -15,6 +15,9 @@
     "_javascript": {
       "iconPath": "icons/star fragment large.png"
     },
+    "_typescript": {
+      "iconPath": "icons/star fragment.png"
+    },
     "_json": {
       "iconPath": "icons/lost item journal.png"
     },
@@ -54,6 +57,9 @@
   "fileExtensions": {
     "java": "_java",
     "js": "_javascript",
+    "jsx": "_javascript",
+    "ts": "_typescript",
+    "tsx": "_typescript",
     "md": "_text",
     "txt": "_text",
     "git": "_git",
@@ -76,7 +82,11 @@
     "changelog": "_log",
     "changelog.md": "_log",
     "changelog.json": "_log",
-    "package-lock.json": "_lock"
+    "package-lock.json": "_lock",
+    "yarn.lock": "_lock",
+    "env.example": "_env",
+    "env.local": "_env"
+
   },
   "languageIds": {
     "javascript": "_js",

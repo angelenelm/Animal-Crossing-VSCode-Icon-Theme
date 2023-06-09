@@ -31,7 +31,7 @@
       "iconPath": "icons/wood.png"
     },
     "_git": {
-      "iconPath": "icons/construction helmet.png"
+      "iconPath": "icons/Isabelle.png"
     },
     "_ignore": {
       "iconPath": "icons/old tire.png"
@@ -51,6 +51,12 @@
     "_py": {
       "iconPath": "icons/ribbon eel.png"
     }
+    "_tf": {
+      "iconPath": "icons/construction helmet.png"
+    },
+    "_yml": {
+      "iconPath": "icons/diy recipe.png"
+    },
   },
   "file": "_file",
   "folder": "_folder",

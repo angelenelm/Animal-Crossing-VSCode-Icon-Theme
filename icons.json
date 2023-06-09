@@ -25,13 +25,13 @@
       "iconPath": "icons/lost item book.png"
     },
     "_image": {
-      "iconPath": "icons/diy recipe.png"
+      "iconPath": "icons/camera.png"
     },
     "_log": {
       "iconPath": "icons/wood.png"
     },
     "_git": {
-      "iconPath": "icons/construction helmet.png"
+      "iconPath": "icons/Isabelle.png"
     },
     "_ignore": {
       "iconPath": "icons/old tire.png"
@@ -50,6 +50,12 @@
     },
     "_py": {
       "iconPath": "icons/ribbon eel.png"
+    },
+    "_tf": {
+      "iconPath": "icons/construction helmet.png"
+    },
+    "_yml": {
+      "iconPath": "icons/diy recipe.png"
     }
   },
   "file": "_file",
@@ -73,7 +79,9 @@
     "svg": "_image",
     "pdf": "_image",
     "env": "_env",
-    "py": "_py"
+    "py": "_py",
+    "tf": "_tf",
+    "yml": "_yml"
   },
   "fileNames": {
     ".vscodeignore": "_ignore",
@@ -86,7 +94,6 @@
     "yarn.lock": "_lock",
     "env.example": "_env",
     "env.local": "_env"
-
   },
   "languageIds": {
     "javascript": "_js",

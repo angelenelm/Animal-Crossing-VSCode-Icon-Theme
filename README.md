@@ -27,14 +27,15 @@ An Animal Crossing: New Horizons themed file icon pack for VSCode! Currently sup
 | <img src="icons/star fragment large.png" width="25"> | `js`      |
 | <img src="icons/lost item journal.png" width="25">   | `json`    |
 | <img src="icons/lost item book.png" width="25">      | `md, txt` |
-| <img src="icons/ribbon eel.png" width="25">          | `py`     |
-| <img src="icons/diy recipe.png" width="25">          | `images`  |
+| <img src="icons/ribbon eel.png" width="25">          | `py`      |
+| <img src="icons/camera.png" width="25">              | `images`  |
 | <img src="icons/wood.png" width="25">                | `logs`    |
-| <img src="icons/construction helmet.png" width="25"> | `git`     |
+| <img src="icons/Isabelle.png" width="25">            | `git`     |
 | <img src="icons/old tire.png" width="25">            | `ignore`  |
 | <img src="icons/red present.png" width="25">         | `lock`    |
 | <img src="icons/lily of the valley.png" width="25">  | `env`     |
-
+| <img src="icons/construction helmet.png" width="25"> | `tf`      |
+| <img src="icons/diy recipe.png" width="25">          | `yml`     |
 </p>
 <br>
 

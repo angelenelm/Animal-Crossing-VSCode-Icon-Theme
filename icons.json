@@ -66,6 +66,7 @@
     "jsx": "_javascript",
     "ts": "_typescript",
     "tsx": "_typescript",
+    "scss": "_css",
     "md": "_text",
     "txt": "_text",
     "git": "_git",
